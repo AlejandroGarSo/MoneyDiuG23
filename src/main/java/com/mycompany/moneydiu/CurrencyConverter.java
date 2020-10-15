@@ -22,7 +22,7 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author Santiago Higuita
+ * @author Santiago Higuita Ardila
  */
 public class CurrencyConverter {
     private static HttpURLConnection con;

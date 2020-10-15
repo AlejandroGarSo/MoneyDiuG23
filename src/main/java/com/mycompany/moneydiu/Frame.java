@@ -7,7 +7,7 @@ package com.mycompany.moneydiu;
 
 /**
  *
- * @author Sara
+ * @author Alejandro García Sosa
  */
 public class Frame extends javax.swing.JFrame {
 
